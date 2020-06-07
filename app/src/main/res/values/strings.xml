@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Base64 Decrypter</string>
+    <string name="output_string">Output String</string>
+    <string name="input_string">Input String</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="base64_decrypter">Base64 Decrypter</string>
+    <string name="write_string_to_be_decode">Write String To be decode</string>
+</resources>
